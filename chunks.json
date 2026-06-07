@@ -1,0 +1,602 @@
+[
+  {
+    "chunk_id": "src3-000",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Things to Do\n\nGo where refined meets rustic, where history meets community, and where new meets old. Situated at the epicenter of Texas’s five major metros, Bryan makes for the ultimate getaway.\n\nSummer In Bryan, Texas",
+    "n_tokens": 47,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-001",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Summer in Bryan, Texas is a time to unwind & enjoy our quaint college town at a slower pace. Around here, summer is filled with live music around town, days spent at…\n\nTake time to discover our legends and create some incredible memories as you explore Bryan, Texas. We’ve put together a list of more than 30 must-do activities for your Bryan Bucket List!",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-002",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Little Boots, Tall Tales\n\nThe Legend Of Bryan, Texas\n\nIn Bryan, Texas, you'll travel back in time, come face-to-face with wild beasts, meet queens, and even learn to fly – if you believe our friend here, that is.",
+    "n_tokens": 53,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-003",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "With something here for everyone — from happy wanderers to outdoor enthusiasts, avid adventurers, history buffs, famished foodies, and family-focused travelers alike — this legendary Texas town is full of surprises you won’t soon forget. Visit Bryan for\nall things\nhistory, art, music, shopping, and food.\n\nYour Guide to a Romantic Weekend Getaway in Bryan, TX",
+    "n_tokens": 77,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-004",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Whether you’re newly married, dating, or celebrating a milestone anniversary, there are plenty of ways to…\n\nA Guide To Experiencing The Arts in Bryan, Texas\n\nBryan is a vibrant, diverse community home to a thriving arts scene, rich in cultural diversity…\n\nFun & Creative Date Night Ideas For Any Budget In Bryan, Texas",
+    "n_tokens": 64,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-005",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Whether it’s your first date or a long-overdue night out, Bryan, Texas is sure to give…\n\nDog-Friendly Places In Bryan To Eat, Drink, & Shop!\n\nLet’s face it…Dogs are our favorite kind of people, and in Bryan, Texas furry friends are…\n\nTop Thrift, Resale, Antique & Vintage Shops in Bryan, Texas",
+    "n_tokens": 76,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-006",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "If you love thrifting, antiques & all things vintage — Bryan, Texas has plenty of unique…\n\nFree Things to Do in Bryan, Texas\n\nPlan your itinerary around free activities in Bryan, finding outdoor movie nights, historic landmarks, and more.\n\nThe Perfect Girls’ Weekend Getaway In Bryan, Texas: Places To Eat, Drink, Shop & More!",
+    "n_tokens": 73,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-007",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Located in the heart of the\nTexas Triangle”, Bryan, Texas is conveniently located less than three…\n\nExplore a truly unique and vibrant city steeped in more than 150 years of culture.",
+    "n_tokens": 38,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-008",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "You’ll find plenty of wide open spaces in the Brazos Valley with so many ways to relax, recreate, and connect with nature at our dozens of parks, world-class golf courses, outdoor events, lakeside trails, and more.",
+    "n_tokens": 49,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-009",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "In Historic Downtown Bryan, the legendary stories of our past converge with a thriving arts scene, top-rated restaurants, signature events, and eclectic boutiques & antique shops to form the ever-evolving cultural hub of the Brazos Valley.\n\nWith plentiful and varied attractions and accommodations to explore, your visit is guaranteed to be a hit.",
+    "n_tokens": 68,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-010",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Whether it’s a live concert along Lake Walk, a stroll through the Farmer's Market in Brazos County, or a festival in Historic Downtown Bryan, our locals love to gather for food, music, and fun — regardless of the reason or the season!\n\n118 S Bryan Ave\n\nBryan, Texas 77803\n\n\"Among the Wildflowers\" Mural\n118 S Bryan Ave",
+    "n_tokens": 75,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-011",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Bryan, Texas 77803\n\nWest 31st Street\n\nBryan, Texas 77803\n\n31st Street Murals\nWest 31st Street\n\nBryan, Texas 77803\n\n18075 Farm to Market Road 974\n\nBryan, Texas 77808\n\n(979) 599-5440\n\nAggieland Safari\n18075 Farm to Market Road 974\n\nBryan, Texas 77808\n\n424 North Main Street\n\nBryan, Texas 77803",
+    "n_tokens": 79,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-012",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "(979) 822-2979\n\nAlice's Attic\n\n424 North Main Street\n\nBryan, Texas 77803\n\nRoundabout at Main Street & 23rd Street\n\nBryan, Texas 77803\n\nArc De Luna\nRoundabout at Main Street & 23rd Street\n\nBryan, Texas 77803\n\n109 North Main Street\n\nBryan, Texas 77803\n\n(979) 775-4014\n\nBavarian Brauhaus\n109 North Main Street",
+    "n_tokens": 80,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-013",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Bryan, Texas 77803\n\n117 North Main Street\n\nBryan, Texas 77803\n\n(979) 704-6256\n\nBird's Nest Gifts & Antiques\n117 North Main Street\n\nBryan, Texas 77803\n\n701 North Main Street\n\nBryan, Texas 77803\n\n(979) 704-6191\n\nBlackwater Draw Brewery\n701 North Main Street\n\nBryan, Texas 77803",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-014",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "120 South Main Street\n\nBryan, Texas 77803\n\nBombers Baseball Statue\n120 South Main Street\n\nBryan, Texas 77803\n\n2421 Boonville Road\n\nBryan, Texas 77802\n\n(979) 204-5492\n\nBoonville Heritage Park\n2421 Boonville Road\n\nBryan, Texas 77802\n\n2619 West Highway 21\n\nBryan, Texas 77803\n\n(979) 823-0129",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src3-015",
+    "source_id": 3,
+    "source_name": "Destination Bryan",
+    "source_url": "https://destinationbryan.com/things-to-do/",
+    "text": "Brazos County Arboretum and Demonstration Idea Garden\n2619 West Highway 21\n\nBryan, Texas 77803\n\n202 West 26th Street\n\nBryan, Texas 77803\n\n(979) 823-0325\n\nBrazos Glassworks\n202 West 26th Street\n\nBryan, Texas 77803",
+    "n_tokens": 52,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-000",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "College Station invites visitors to explore a dynamic mix of history, culture and play. From nationally recognized attractions like the George H.W. Bush Presidential Library and Museum to the iconic traditions found across the Texas A&M University campus, there is always something happening in Aggieland.",
+    "n_tokens": 56,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-001",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "Spend the day outdoors in local parks and trails, dive into hands-on entertainment like axe throwing and ice skating or experience the electric atmosphere of game day at Kyle Field. When the sun goes down, enjoy live music, local nightlife and a growing dining scene that keeps visitors coming back for more.\n\nArts & Culture",
+    "n_tokens": 63,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-002",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "College Station is a dynamic community with a flourishing arts and culture scene, deeply rooted in…\n\nHistory\n\nIn College Station, we are proud to honor those that served our country, and that pride…\n\nBest Bars & Clubs in College Station\n\nWhether you're looking for a relaxing night out with a nice bottle of wine, or want…\n\nSports & Outdoors",
+    "n_tokens": 68,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-003",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "Discover the natural beauty of College Station, where tranquil trails, lively parks and exciting sports venues…\n\nShopping\n\nWe invite you to explore the varied shopping options in College Station!\n\nAttractions\n\nCollege Station’s attractions showcase the best of Aggieland, blending iconic landmarks, local favorites and places that invite exploration. From nationally recognized sites like the George H.W. Bush Presidential Library and Museum to…\n\nOutdoors",
+    "n_tokens": 79,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-004",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "College Station makes it easy to get outside and enjoy wide-open spaces, scenic trails and parks designed for every pace. Whether you are looking to take a leisurely walk, enjoy a picnic, explore local greenways or spend time with family, the city’s outdoor spaces offer a refreshing way to slow down and reconnect.",
+    "n_tokens": 67,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-005",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "It is the perfect complement to College Station’s lively energy and welcoming spirit.\n\nCity of College Station Parks Directory\n\nThe Gardens\n\nGary Halter Nature Center\n\nWolf Pen Creek\n\nArt Galleries & Museums",
+    "n_tokens": 36,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-006",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "Art galleries and museums in College Station offer a deeper look at the stories, creativity and innovation that shape the city. From nationally recognized institutions to local galleries and rotating exhibits, visitors can explore everything from history and heritage to contemporary art and culture. It is an engaging way to experience College Station beyond the game day atmosphere and discover what makes Aggieland unique.",
+    "n_tokens": 71,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src4-007",
+    "source_id": 4,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/",
+    "text": "George H.W. Bush Presidential Library & Museum\n\nMuseum of the American G.I.\n\nArts Center of the Brazos Valley\n\nThings to Do in College Station\n\nHidden Gems in College Station\n\nDiscover the charm of College Station through its hidden gems, where unique shops, outdoor trails, and more local spots offer one-of-a-kind experiences.",
+    "n_tokens": 68,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS things-to-do"
+    }
+  },
+  {
+    "chunk_id": "src6-000",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "Events\n\nTexas A&M University (College Station, TX)\n\n2026 Summer Advisor and Supervisor Symposium (SASS) : Registration\n\nDSA Committee on Student Learning in the Co-curricular\n\nMon, Jun 15, 2026 8:30 am\n\nMemorial Student Center\n\nAdvisor Ice Cream Social (Come & Go)\n\nStudent Organization Leadership & Development\n\nTue, Jul 7, 2026 2:00 pm",
+    "n_tokens": 77,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-001",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "AggieFest 2026\n\nResidential Housing Association\n\nSat, Aug 22, 2026 5:00 pm\n\nAggie Park\n\nKolaches & Community (Come & Go)\n\nStudent Organization Leadership & Development\n\nTue, Aug 25, 2026 9:30 am\n\nRudder Plaza\n\nCommunity Council Informational\n\nResidential Housing Association\n\nTue, Aug 25, 2026 7:00 pm\n\nCommons\n\nCommunity Council Informational\n\nResidential Housing Association",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-002",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "Tue, Sep 1, 2026 7:00 pm\n\nCommons\n\nWhat is SOLAD?\n\nStudent Organization Leadership & Development\n\nWed, Sep 2, 2026 2:30 pm\n\nClub Crawl Fall 2026\n\nClub Crawl\n\nSun, Sep 6, 2026 1:00 pm\n\nMemorial Student Center\n\nFUNding (Come & Go)\n\nStudent Organization Leadership & Development\n\nMon, Sep 14, 2026 2:30 pm\n\nRudder Plaza",
+    "n_tokens": 79,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-003",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "RHA General Assembly: Community Council Training\n\nResidential Housing Association\n\nTue, Sep 15, 2026 7:00 pm\n\nCommons\n\nMoney Moves & Momentum: Funding and Development\n\nStudent Organization Leadership & Development\n\nTue, Sep 22, 2026 9:30 am\n\nRHA General Assembly\n\nResidential Housing Association\n\nTue, Sep 29, 2026 7:00 pm\n\nHullabaloo Residence Hall\n\nRHA General Assembly",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-004",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "Residential Housing Association\n\nTue, Oct 6, 2026 7:00 pm\n\nCommons\n\nEvent Planning Tips (Come & Go)\n\nStudent Organization Leadership & Development\n\nWed, Oct 7, 2026 2:30 pm\n\nRudder Plaza\n\nRHA General Assembly\n\nResidential Housing Association\n\nTue, Oct 20, 2026 7:00 pm\n\nHullabaloo Residence Hall",
+    "n_tokens": 67,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-005",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "What’s the Tea with Student Organization Travel ?(Come & Go)\n\nStudent Organization Leadership & Development\n\nThu, Oct 22, 2026 11:30 am\n\nRudder Plaza\n\nSPOOKTACULAR: How to Plan\n\nStudent Organization Leadership & Development\n\nWed, Oct 28, 2026 2:00 pm\n\nRefill Your Cup as Student Leaders (Come & Go)\n\nStudent Organization Leadership & Development",
+    "n_tokens": 75,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-006",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "Tue, Nov 3, 2026 9:30 am\n\nRudder Plaza\n\nRHA General Assembly\n\nResidential Housing Association\n\nTue, Nov 3, 2026 7:00 pm\n\nCommons\n\nAdvisor Coffee Hour (Come & Go)\n\nStudent Organization Leadership & Development\n\nTue, Nov 10, 2026 9:00 am\n\nRHA General Assembly\n\nResidential Housing Association\n\nTue, Nov 17, 2026 7:00 pm",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src6-007",
+    "source_id": 6,
+    "source_name": "Texas A&M University",
+    "source_url": "https://getinvolved.tamu.edu/events",
+    "text": "Hullabaloo Residence Hall\n\nRest & Relax\n\nStudent Organization Leadership & Development\n\nWed, Nov 18, 2026 2:00 pm\n\nRHA General Assembly\n\nResidential Housing Association\n\nTue, Dec 1, 2026 7:00 pm\n\nCommons\n\nCheers to You (Come & Go)\n\nStudent Organization Leadership & Development\n\nFri, Dec 4, 2026 11:30 am",
+    "n_tokens": 70,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official university events calendar"
+    }
+  },
+  {
+    "chunk_id": "src8-000",
+    "source_id": 8,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/nightlife/",
+    "text": "Best Bars & Clubs in College Station\n\nWhether you're looking for a relaxing night out with a nice bottle of wine, or want to dance the night away, College Station offers a nightlife experience that will fit any mood!\nYou won't forget your night out in College Station!\n\nHistoric Northgate District",
+    "n_tokens": 61,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS nightlife options"
+    }
+  },
+  {
+    "chunk_id": "src8-001",
+    "source_id": 8,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/nightlife/",
+    "text": "Dive into the vibrant energy of College Station's Historic Northgate District, where entertainment, dining and Aggie traditions collide.\n\nArts & Culture\n\nCollege Station is a dynamic community with a flourishing arts and culture scene, deeply rooted in…\n\nAttractions\n\nCollege Station’s attractions showcase the best of Aggieland, blending iconic landmarks, local favorites and places that…\n\nHistory",
+    "n_tokens": 72,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS nightlife options"
+    }
+  },
+  {
+    "chunk_id": "src8-002",
+    "source_id": 8,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/things-to-do/nightlife/",
+    "text": "In College Station, we are proud to honor those that served our country, and that pride…\n\nSports & Outdoors\n\nDiscover the natural beauty of College Station, where tranquil trails, lively parks and exciting sports venues…\n\nShopping\n\nWe invite you to explore the varied shopping options in College Station!",
+    "n_tokens": 56,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS nightlife options"
+    }
+  },
+  {
+    "chunk_id": "src9-000",
+    "source_id": 9,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/events/",
+    "text": "Events\n\nEvents in College Station bring the community and visitors together all year long. From live music and local markets to sporting events, festivals and family-friendly experiences, there is always something happening in the Heart of Aggieland.",
+    "n_tokens": 45,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS events calendar"
+    }
+  },
+  {
+    "chunk_id": "src9-001",
+    "source_id": 9,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/events/",
+    "text": "Whether you are planning a weekend visit or looking to experience the city like a local, College Station’s event calendar offers memorable moments that showcase its energy, traditions and unmistakable sense of place. Depending on the time of year, take advantage of vibrant happenings in entertainment, sports, food, the arts and more.",
+    "n_tokens": 63,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS events calendar"
+    }
+  },
+  {
+    "chunk_id": "src9-002",
+    "source_id": 9,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/events/",
+    "text": "Hosting an event in College Station? Whether it is a festival, concert, market or community gathering, we would love to help spread the word. Local businesses and event organizers are invited to submit their event details to be featured on our calendar and shared with visitors and locals alike.\n\nSee & Do\n\nCollege Station invites visitors to explore a dynamic mix of history, culture and play. From nationally…",
+    "n_tokens": 77,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS events calendar"
+    }
+  },
+  {
+    "chunk_id": "src9-003",
+    "source_id": 9,
+    "source_name": "Visit College Station",
+    "source_url": "https://visit.cstx.gov/events/",
+    "text": "Best Hotels in College Station\n\nEat & Drink\n\nCollege Station’s food scene offers something for every appetite, from casual cafés and classic Texas barbecue…\n\nPlan Your Trip",
+    "n_tokens": 31,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official CS events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-000",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Events\n\nWhether it’s a live concert along Lake Walk, a stroll through the Farmer's Market in Brazos County, or a festival in Historic Downtown Bryan, our locals love to gather for food, music, and fun — regardless of the reason or the season!\n\nWant to stay informed about events happening in Bryan, Texas?\n\nSummer In Bryan, Texas",
+    "n_tokens": 71,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-001",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Summer in Bryan, Texas is a time to unwind & enjoy our quaint college town at a slower pace. Around here, summer is filled with live music around town, days spent at…\n\nFirst Friday\n\nSponsored by Baylor Scott & White Health",
+    "n_tokens": 48,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-002",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "The streets of Historic Downtown Bryan transform into one big stage on the First Friday of each month with live music, performances, art demonstrations, and unique & interactive events and activities!\n\nAnnual Events\n\nDiscover the exciting annual events and festivals that celebrate Bryan's local culture, cuisine, and holidays.\n\nMessina Hof Winery\n\n3232 Briarcrest Drive\n\nBryan, TX 77802\n\nJune 7 to October 24",
+    "n_tokens": 79,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-003",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "The Brazos: Legacy of a Mighty River Exhibit at The Brazos Valley Museum of Natural History\nBrazos Valley Museum of Natural History\n\n3232 Briarcrest Drive\n\nBryan, TX 77802\n\n2100 Bomber Dr\n\nBryan, TX 77803\n\nJune 7\n\nBryan Yard Dogs vs. Meridian Blues Baseball Game at Travis Fields\nMidtown Park\n\n2100 Bomber Dr\n\nBryan, TX 77803\n\n19124 Highway 6 South",
+    "n_tokens": 80,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-004",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "College Station, Texas 0501\n\nJune 7\n\nCurrency of Independence at the Museum of the American G.I.\nMuseum of the American GI\n\n19124 Highway 6 South\n\nCollege Station, Texas 0501\n\n111 S Main St\n\nBryan, Texas 77803\n\nJune 7\n\nAmerica 250 Scavenger Hunt at the Carnegie History Center\nCarnegie History Center\n\n111 S Main St\n\nBryan, Texas 77803\n\n2603 Rountree Dr.",
+    "n_tokens": 80,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-005",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Bryan, TX 77801\n\nJune 7\n\nRountree Market at Midtown Park\n2603 Rountree Dr.\n\nBryan, TX 77801\n\nHistoric Downtown Bryan\n\n607 N. Main St.\n\nBryan, TX 77803\n\nJune 7\n\nIndian Film Series at The Kimbell Cultural Event Center\nThe Kimbell Cultural Event Center\n\n607 N. Main St.\n\nBryan, TX 77803\n\n218 North Bryan Avenue",
+    "n_tokens": 79,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-006",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Bryan, TX 77803\n\nJune 7\n\nThe Outsider at StageCenter Theatre (Matinee)\nStageCenter Community Theater\n\n218 North Bryan Avenue\n\nBryan, TX 77803\n\n3125 S. Texas Ave. Suite 500\n\nBryan, TX 77802\n\nJune 7\n\nShrek the Musical at the Theatre Company (Matinee)\n3125 S. Texas Ave. Suite 500\n\nBryan, TX 77802",
+    "n_tokens": 80,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-007",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "4421 South Texas Avenue\n\nBryan, TX 77802\n\nJune 7\n\nEvery Sunday from 11AM to 2AM\n\nSunday Funday at Yesterdays Bar and Grill\nYesterdays Bar and Grill\n\n4421 South Texas Avenue\n\nBryan, TX 77802\n\n110 South Main Street\n\nBryan, TX 77803\n\nJune 7\n\n\"Scary Movie 6\" at The Queen Theatre\nThe Queen Theatre\n\n110 South Main Street\n\nBryan, TX 77803",
+    "n_tokens": 80,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-008",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "111 S Main St\n\nBryan, Texas 77803\n\nJune 8\n\nAmerica 250 Scavenger Hunt at the Carnegie History Center\nCarnegie History Center\n\n111 S Main St\n\nBryan, Texas 77803\n\n19124 Highway 6 South\n\nCollege Station, Texas 0501\n\nJune 8\n\nCurrency of Independence at the Museum of the American G.I.\nMuseum of the American GI\n\n19124 Highway 6 South\n\nCollege Station, Texas 0501",
+    "n_tokens": 78,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-009",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Top 30+ Things To Do In Bryan, Texas\n\nBorn of converging cultures and built on deep Texas roots, Bryan is a community filled with…\n\nFree Things to Do in Bryan, Texas\n\nPlan your itinerary around free activities in Bryan, finding outdoor movie nights, historic landmarks, and more.\n\nPlan Your Trip",
+    "n_tokens": 63,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  },
+  {
+    "chunk_id": "src10-010",
+    "source_id": 10,
+    "source_name": "Destination Bryan",
+    "source_url": "https://www.destinationbryan.com/events/",
+    "text": "Peruse hip boutiques in Historic Downtown Bryan, make friends with a real, live giraffe at Aggieland…",
+    "n_tokens": 25,
+    "metadata": {
+      "kind": "listing",
+      "description": "Official Bryan events calendar"
+    }
+  }
+]
